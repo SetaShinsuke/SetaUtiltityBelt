@@ -1,0 +1,3 @@
+include ':app', ':setakits', ':swipe'
+
+project(':setakits').projectDir = new File(settingsDir, '../setakits/setakits')
