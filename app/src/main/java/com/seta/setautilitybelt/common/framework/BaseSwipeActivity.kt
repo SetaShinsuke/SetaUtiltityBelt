@@ -1,4 +1,4 @@
-package com.seta.setautilitybelt.common
+package com.seta.setautilitybelt.common.framework
 
 import android.content.Context
 import android.os.Bundle
@@ -8,10 +8,10 @@ import android.util.TypedValue
 import android.view.MenuItem
 import android.view.View
 import com.seta.setautilitybelt.R
-import com.seta.swipe.SwipeBackLayout
-import com.seta.swipe.Utils
-import com.seta.swipe.app.SwipeBackActivityBase
-import com.seta.swipe.app.SwipeBackActivityHelper
+import com.seta.swipebackutility.SwipeBackLayout
+import com.seta.swipebackutility.Utils
+import com.seta.swipebackutility.app.SwipeBackActivityBase
+import com.seta.swipebackutility.app.SwipeBackActivityHelper
 
 /**
  * Created by SETA_WORK on 2017/6/9.

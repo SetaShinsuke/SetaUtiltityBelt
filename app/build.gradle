@@ -33,5 +33,5 @@ dependencies {
     //setaKits
     compile project(':setakits')
     //滑动返回
-    compile project(':swipe')
+    compile project(':swipebackutility')
 }

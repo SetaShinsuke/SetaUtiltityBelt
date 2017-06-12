@@ -1,7 +1,7 @@
 package com.seta.setautilitybelt
 
 import android.os.Bundle
-import com.seta.swipe.app.SwipeBackActivity
+import com.seta.swipebackutility.app.SwipeBackActivity
 
 class MainActivity : SwipeBackActivity() {
 
